@@ -1,0 +1,14 @@
+\\win-9u77nfs6td3\folder redirection\ihub20\My Documents\LAZO_CHARLJUSTINE\ATM_Advanced\bin\Debug\net9.0\ATM_Advanced.exe
+\\win-9u77nfs6td3\folder redirection\ihub20\My Documents\LAZO_CHARLJUSTINE\ATM_Advanced\bin\Debug\net9.0\ATM_Advanced.deps.json
+\\win-9u77nfs6td3\folder redirection\ihub20\My Documents\LAZO_CHARLJUSTINE\ATM_Advanced\bin\Debug\net9.0\ATM_Advanced.runtimeconfig.json
+\\win-9u77nfs6td3\folder redirection\ihub20\My Documents\LAZO_CHARLJUSTINE\ATM_Advanced\bin\Debug\net9.0\ATM_Advanced.dll
+\\win-9u77nfs6td3\folder redirection\ihub20\My Documents\LAZO_CHARLJUSTINE\ATM_Advanced\bin\Debug\net9.0\ATM_Advanced.pdb
+\\win-9u77nfs6td3\folder redirection\ihub20\My Documents\LAZO_CHARLJUSTINE\ATM_Advanced\obj\Debug\net9.0\ATM_Advanced.GeneratedMSBuildEditorConfig.editorconfig
+\\win-9u77nfs6td3\folder redirection\ihub20\My Documents\LAZO_CHARLJUSTINE\ATM_Advanced\obj\Debug\net9.0\ATM_Advanced.AssemblyInfoInputs.cache
+\\win-9u77nfs6td3\folder redirection\ihub20\My Documents\LAZO_CHARLJUSTINE\ATM_Advanced\obj\Debug\net9.0\ATM_Advanced.AssemblyInfo.cs
+\\win-9u77nfs6td3\folder redirection\ihub20\My Documents\LAZO_CHARLJUSTINE\ATM_Advanced\obj\Debug\net9.0\ATM_Advanced.csproj.CoreCompileInputs.cache
+\\win-9u77nfs6td3\folder redirection\ihub20\My Documents\LAZO_CHARLJUSTINE\ATM_Advanced\obj\Debug\net9.0\ATM_Advanced.dll
+\\win-9u77nfs6td3\folder redirection\ihub20\My Documents\LAZO_CHARLJUSTINE\ATM_Advanced\obj\Debug\net9.0\refint\ATM_Advanced.dll
+\\win-9u77nfs6td3\folder redirection\ihub20\My Documents\LAZO_CHARLJUSTINE\ATM_Advanced\obj\Debug\net9.0\ATM_Advanced.pdb
+\\win-9u77nfs6td3\folder redirection\ihub20\My Documents\LAZO_CHARLJUSTINE\ATM_Advanced\obj\Debug\net9.0\ATM_Advanced.genruntimeconfig.cache
+\\win-9u77nfs6td3\folder redirection\ihub20\My Documents\LAZO_CHARLJUSTINE\ATM_Advanced\obj\Debug\net9.0\ref\ATM_Advanced.dll
